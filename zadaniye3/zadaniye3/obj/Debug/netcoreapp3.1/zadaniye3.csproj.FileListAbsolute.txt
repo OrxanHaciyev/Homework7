@@ -1,0 +1,13 @@
+C:\Users\DV6\source\Homework 7\zadaniye3\zadaniye3\bin\Debug\netcoreapp3.1\zadaniye3.exe
+C:\Users\DV6\source\Homework 7\zadaniye3\zadaniye3\bin\Debug\netcoreapp3.1\zadaniye3.deps.json
+C:\Users\DV6\source\Homework 7\zadaniye3\zadaniye3\bin\Debug\netcoreapp3.1\zadaniye3.runtimeconfig.json
+C:\Users\DV6\source\Homework 7\zadaniye3\zadaniye3\bin\Debug\netcoreapp3.1\zadaniye3.runtimeconfig.dev.json
+C:\Users\DV6\source\Homework 7\zadaniye3\zadaniye3\bin\Debug\netcoreapp3.1\zadaniye3.dll
+C:\Users\DV6\source\Homework 7\zadaniye3\zadaniye3\bin\Debug\netcoreapp3.1\zadaniye3.pdb
+C:\Users\DV6\source\Homework 7\zadaniye3\zadaniye3\obj\Debug\netcoreapp3.1\zadaniye3.csprojAssemblyReference.cache
+C:\Users\DV6\source\Homework 7\zadaniye3\zadaniye3\obj\Debug\netcoreapp3.1\zadaniye3.AssemblyInfoInputs.cache
+C:\Users\DV6\source\Homework 7\zadaniye3\zadaniye3\obj\Debug\netcoreapp3.1\zadaniye3.AssemblyInfo.cs
+C:\Users\DV6\source\Homework 7\zadaniye3\zadaniye3\obj\Debug\netcoreapp3.1\zadaniye3.csproj.CoreCompileInputs.cache
+C:\Users\DV6\source\Homework 7\zadaniye3\zadaniye3\obj\Debug\netcoreapp3.1\zadaniye3.dll
+C:\Users\DV6\source\Homework 7\zadaniye3\zadaniye3\obj\Debug\netcoreapp3.1\zadaniye3.pdb
+C:\Users\DV6\source\Homework 7\zadaniye3\zadaniye3\obj\Debug\netcoreapp3.1\zadaniye3.genruntimeconfig.cache
